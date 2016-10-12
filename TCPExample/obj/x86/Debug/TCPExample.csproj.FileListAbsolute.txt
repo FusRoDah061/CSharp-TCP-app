@@ -1,0 +1,31 @@
+C:\Users\lab16.ADMIN\AppData\Local\Temporary Projects\TCPExample\bin\Debug\TCPExample.exe
+C:\Users\lab16.ADMIN\AppData\Local\Temporary Projects\TCPExample\bin\Debug\TCPExample.pdb
+C:\Users\lab16.ADMIN\AppData\Local\Temporary Projects\TCPExample\obj\x86\Debug\TCPExample.Form1.resources
+C:\Users\lab16.ADMIN\AppData\Local\Temporary Projects\TCPExample\obj\x86\Debug\TCPExample.Properties.Resources.resources
+C:\Users\lab16.ADMIN\AppData\Local\Temporary Projects\TCPExample\obj\x86\Debug\TCPExample.csproj.GenerateResource.Cache
+C:\Users\lab16.ADMIN\AppData\Local\Temporary Projects\TCPExample\obj\x86\Debug\TCPExample.exe
+C:\Users\lab16.ADMIN\AppData\Local\Temporary Projects\TCPExample\obj\x86\Debug\TCPExample.pdb
+F:\CPDB\Algoritmos e Ling. Prog\C++\TCPExample\TCPExample\obj\x86\Debug\TCPExample.exe
+F:\CPDB\Algoritmos e Ling. Prog\C++\TCPExample\TCPExample\obj\x86\Debug\TCPExample.pdb
+E:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\obj\x86\Debug\TCPExample.exe
+E:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\obj\x86\Debug\TCPExample.pdb
+E:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\obj\x86\Debug\TCPExample.Cliente.resources
+E:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\obj\x86\Debug\TCPExample.Form1.resources
+E:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\obj\x86\Debug\TCPExample.Properties.Resources.resources
+E:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\obj\x86\Debug\TCPExample.Servidor.resources
+E:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\obj\x86\Debug\TCPExample.csproj.GenerateResource.Cache
+E:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\bin\Debug\TCPExample.exe
+E:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\bin\Debug\TCPExample.pdb
+F:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\obj\x86\Debug\TCPExample.exe
+F:\CPDB\Algoritmos e Ling. Prog\C#\TCPExample\TCPExample\obj\x86\Debug\TCPExample.pdb
+D:\Usuários\Allex\Desktop\TCPExample\TCPExample\obj\x86\Debug\TCPExample.exe
+D:\Usuários\Allex\Desktop\TCPExample\TCPExample\obj\x86\Debug\TCPExample.pdb
+D:\Usuários\Allex\Desktop\GitHub\TCPExample\TCPExample\obj\x86\Debug\TCPExample.exe
+D:\Usuários\Allex\Desktop\GitHub\TCPExample\TCPExample\obj\x86\Debug\TCPExample.pdb
+D:\Usuários\Allex\Desktop\GitHub\TCPExample\TCPExample\bin\Debug\TCPExample.exe
+D:\Usuários\Allex\Desktop\GitHub\TCPExample\TCPExample\bin\Debug\TCPExample.pdb
+D:\Usuários\Allex\Desktop\GitHub\TCPExample\TCPExample\obj\x86\Debug\TCPExample.Cliente.resources
+D:\Usuários\Allex\Desktop\GitHub\TCPExample\TCPExample\obj\x86\Debug\TCPExample.Form1.resources
+D:\Usuários\Allex\Desktop\GitHub\TCPExample\TCPExample\obj\x86\Debug\TCPExample.Properties.Resources.resources
+D:\Usuários\Allex\Desktop\GitHub\TCPExample\TCPExample\obj\x86\Debug\TCPExample.Servidor.resources
+D:\Usuários\Allex\Desktop\GitHub\TCPExample\TCPExample\obj\x86\Debug\TCPExample.csproj.GenerateResource.Cache
